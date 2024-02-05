@@ -8,3 +8,5 @@ La première fois seulement vous devez installer les dépendances:
 
 Membre du projet:
 Antoine / Arona
+
+![Updated Screenshot](memorygame.png)
